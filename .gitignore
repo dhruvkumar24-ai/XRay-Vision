@@ -1,0 +1,8 @@
+*.keras
+*.h5
+*.pt
+images/
+processed_images/
+venv/
+__pycache__/
+.env
